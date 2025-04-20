@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 import ArrowDown from '@/assets/icons/arrow-down.svg'
 import SparkleIcon from '@/assets/icons/sparkle.svg'
 import StarIcon from '@/assets/icons/star.svg'
