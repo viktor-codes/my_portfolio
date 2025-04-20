@@ -4,7 +4,7 @@ const nextConfig = {
 	images: {
 		unoptimized: true, // required if using next/image
 	},
-	basePath: '/your-repo-name', // replace with your GitHub repo name
+	basePath: '/my_portfolio', // replace with your GitHub repo name
 	trailingSlash: true, // recommended for GitHub Pages
 	webpack(config) {
 		// Grab the existing rule that handles SVG imports
